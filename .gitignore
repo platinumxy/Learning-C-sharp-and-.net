@@ -1,0 +1,14 @@
+
+.vscode/
+.vs/
+x64/
+Debug/
+enc_temp_folder/
+*.exe
+*.sln
+*.vcxpro
+*.filters
+*.user
+*.vcxproj
+*.rc
+*.aps
