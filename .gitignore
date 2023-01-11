@@ -4,6 +4,7 @@
 x64/
 Debug/
 enc_temp_folder/
+obj/
 *.exe
 *.sln
 *.vcxpro
@@ -12,3 +13,4 @@ enc_temp_folder/
 *.vcxproj
 *.rc
 *.aps
+*.csproj
